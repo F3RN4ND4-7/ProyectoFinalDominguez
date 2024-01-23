@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #31146f;
+}
+
+h1 {
+    text-decoration: none;
+}
+
+li {
+    margin: 16px;
+    display: inline-block;
+}
+
+li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color:  #31146f;
+}

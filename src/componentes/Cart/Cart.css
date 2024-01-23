@@ -1,0 +1,51 @@
+.contenedorItem {
+    text-align: center;
+    width: 35vw;
+    margin: auto;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    background-color:#0300b1;
+    color: #FAFAFA;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color:#110067;
+    font-weight: 500;
+}
+
+.container-btn {
+    margin-top: 24px;
+}
+
+.btn {
+    background-color:#000000;
+    color: hsl(0, 0%, 98%);
+    border-radius: 8px;
+    border: none;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.btn:hover {
+    background-color:#2300cf;
+    color: #FAFAFA;
+    text-decoration: none;
+}
+
+.precio {
+    font-size: 2rem;
+    color: #110067;
+}

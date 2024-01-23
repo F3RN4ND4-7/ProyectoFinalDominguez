@@ -1,0 +1,14 @@
+.contenedorItem {
+    text-align: center;
+}
+.item {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+    width: 35vw;
+}
+.end {
+    display: flex;
+    justify-content: end;
+}

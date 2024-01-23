@@ -1,0 +1,22 @@
+.add-items {
+    display: flex;
+    gap: 1rem;
+    border-radius: 3rem;
+    width: 20vw;
+    margin: auto;
+    align-items: center;
+}
+
+button {
+    background-color:#2300cf;
+    color: #FAFAFA;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color:#110067;
+    font-weight: 500;
+}

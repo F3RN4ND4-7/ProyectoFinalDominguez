@@ -1,0 +1,15 @@
+.carrito {
+    width: 55px;
+}
+
+.number {
+    text-decoration: none;
+}
+.card-bg {
+    display: flex;
+    border-radius: 25px;
+}
+.card-bg:hover {
+    background-color: rgb(181, 163, 0);
+
+}

@@ -1,0 +1,15 @@
+.contenedor {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none !important; 
+    width: auto;
+    animation: hp 12s ease-in-out infinite;
+    background-color:rgb(224, 224, 224);
+    color: rgb(0, 0, 0);
+    padding-bottom: 5rem;
+    margin: 0;
+}
+
+.tienda {
+    display: flex;
+    justify-content: center;
+}
